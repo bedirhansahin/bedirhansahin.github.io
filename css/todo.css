@@ -1,0 +1,14 @@
+body{
+    font-family: 'Chilanka', cursive;
+    background :#ffc107;
+    color: rgb(5, 41, 82);
+}
+
+.listbg{
+    background-color: rgb(5,41,82);
+    color: #ffc107
+}
+
+.main-h1{
+    margin-top:100px;
+}
